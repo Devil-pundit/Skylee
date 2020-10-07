@@ -1,8 +1,8 @@
 
 {
-  "name": "Skylee",
+  "name": "HACKFREAKS",
   "description": "Telegram's Pro group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/63350037b2146671a2511.jpg",
+  "logo": "https://telegra.ph/file/bc36f852d43b937b69666.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/EmiliaDevs/SkyleeBot.git",
+  "repository": "https://github.com/swatv3nub/hackfreaks-super-bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",

@@ -32,7 +32,7 @@ from skylee.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-Hey There ! My name is HACKFREAKS. 
+Hey There ! My name is ʜᴀᴄᴋғʀᴇᴀᴋs : ᴛʜᴇ ʜᴇʟᴘᴇʀ ʙᴏᴛ. 
 I'm here to make group management easy for you
 I have lots of handy features, such as flood control, a warning system, a note keeping system, and even replies on predetermined filters.
 Please Click Help Button For Assistance And Help Regarding Special Modules
@@ -41,6 +41,7 @@ Any issues or need help related to me?
 ==========================
 ✗ [Our Channel](t.me/hackfreaksupdates)
 ✗ [Our Group](t.me/hackfreakshelp)
+✗ [My Owner](t.me/TheFSociety2_0)
 ==========================
 Wanna Add me to your Group, click on the Add me to group button....
 """

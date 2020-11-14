@@ -6,6 +6,5 @@
 
 # Credits :-
 
-Credits for fixing bugs- [Aditya](t.me/xditya)
-
+Credits for fixing bugs- NOT FIXED SED
 Credits For Designing The Bot Goes To It's Original Developers.

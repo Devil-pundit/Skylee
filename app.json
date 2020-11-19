@@ -1,8 +1,8 @@
 
 {
-  "name": "HACKFREAKS",
+  "name": "sᴋʏʟᴇᴇ",
   "description": "Telegram's Pro group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/bc36f852d43b937b69666.jpg",
+  "logo": "https://mcdn.wallpapersafari.com/medium/98/27/oxvS0a.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/swatv3nub/hackfreaks-super-bot",
+  "repository": "https://github.com/swatv3nub/Skylee",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -32,13 +32,13 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1083049180",
-      "required": false
+      "value": "1167145475",
+      "required": true
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "GodDrick",
-      "required": false
+      "value": "TheFSociety2_0",
+      "required": true
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -55,15 +55,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1083049180"
+      "value": ""
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1083049180"
+      "value": ""
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1083049180"
+      "value": ""
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",

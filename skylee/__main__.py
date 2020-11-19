@@ -169,7 +169,7 @@ def start(update, context):
 
         else:
             update.effective_message.reply_photo(
-                "https://telegra.ph/file/0a6a55b868d5e7d874295.jpg",
+                "https://mcdn.wallpapersafari.com/medium/98/27/oxvS0a.jpg",
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,

@@ -12,4 +12,4 @@ Report your problem along with your name to [this person](https://t.me/TheFSocie
 # Credits :-
 
 Credits for fixing bugs- NOT FIXED SED
-Credits For Designing The Bot Goes To It's Original Developers.
+/nCredits For Designing The Bot Goes To It's Original Developers.

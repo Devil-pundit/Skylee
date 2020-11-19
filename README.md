@@ -7,7 +7,7 @@
 You can Find Sᴋʏʟᴇᴇ in Telegram as [Sᴋʏʟᴇᴇ](https://t.me/SkyleeRobot)
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/GarimaQueen)
+Report your problem along with your name to [this person](https://t.me/TheFSociety2_0)
 
 # Credits :-
 

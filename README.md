@@ -11,5 +11,4 @@ Report your problem along with your name to [this person](https://t.me/TheFSocie
 
 # Credits :-
 
-Credits for fixing bugs- NOT FIXED SED
-/n Credits For Designing The Bot Goes To It's Original Developers.
+Credits For Designing The Bot Goes To It's Original Developers.

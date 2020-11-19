@@ -51,7 +51,7 @@ buttons = [
         InlineKeyboardButton(
             text="Add Me To Group ➕", url="t.me/skyleerobot?startgroup=true"
         ),
-        InlineKeyboardButton(text="Updates & Info 📃", url="https://t.me/skyleeupdateschannel"),
+        InlineKeyboardButton(text="Skylee Repository", url="https://github.com/swatv3nub/Skylee/"),
     ]
 ]
 

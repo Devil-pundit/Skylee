@@ -39,8 +39,8 @@ Please Click Help Button For Assistance And Help Regarding Special Modules
 You can find the list of available commands with Help Module.
 Any issues or need help related to me?
 ==========================
-✗ [Our Channel](t.me/skyleesupdateschannel)
-✗ [Our Group](t.me/skyleehelpchat)
+✗ [Our Channel](t.me/SkyleeUpdatesChannel)
+✗ [Our Group](t.me/SkyleeHelpChat)
 ✗ [My Owner](t.me/TheFSociety2_0)
 ==========================
 Wanna Add me to your Group, click on the Add me to group button....

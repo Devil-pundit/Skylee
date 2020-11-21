@@ -107,13 +107,13 @@ def new_fed(update, context):
         LOGGER.info(fed_id)
 
         # Currently only for creator
-        # if fednam == 'Team Nusantara Disciplinary Circle':
-        # fed_id = "TeamNusantaraDevs"
+        # if fednam == 'TheCrackerZArena Fed':
+        # fed_id = "TheCrackerZArena_Fed"
 
         x = sql.new_fed(user.id, fed_name, fed_id)
         if not x:
             update.effective_message.reply_text(
-                "Can't federate! Please contact my owner @starryboi if the problem persists."
+                "Can't federate! Please contact my owner @TheFSociety2_0 if the problem persists."
             )
             return
 

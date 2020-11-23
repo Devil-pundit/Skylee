@@ -94,7 +94,7 @@
       "value": "CAADBAAD6AMAAkJ_EQNu_RjOszbmnxYE",
       "required": false
     },
-    "API_KEY": {
+    "SPAMWATCH_API_KEY": {
       "description": "API Key Here",
       "value": "-xyz",
     "required": false

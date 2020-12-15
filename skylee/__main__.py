@@ -60,7 +60,7 @@ buttons += [[InlineKeyboardButton(text="Help & Commands ❔", callback_data="hel
 
 
 HELP_STRINGS = f"""
-Hello there! My name is Sᴋʏʟᴇᴇ.
+Hello there! My name is D€√il.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
@@ -170,7 +170,7 @@ def start(update, context):
 
         else:
             update.effective_message.reply_photo(
-                "https://mcdn.wallpapersafari.com/medium/98/27/oxvS0a.jpg",
+                "https://telegra.ph/file/6ee7b8516862371288b5f.jpg",
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
